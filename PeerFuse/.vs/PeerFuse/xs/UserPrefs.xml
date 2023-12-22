@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{DD4E2A12-D561-4762-AA93-4B62B447A67F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PeerFuse/Program.cs">
+    <Files>
+      <File FileName="PeerFuse/Startup.cs" Line="1" Column="1" />
+      <File FileName="PeerFuse/Program.cs" Line="3" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PeerFuse" expanded="True">
+            <Node name="PeerFuse" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PeerFuse FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
