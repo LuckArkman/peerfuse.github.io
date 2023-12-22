@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("peerfuse")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f21b104ad96ecf6d71a6e57bc6fe5e4883548135")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5799fba4c388d35862b68df9489e7b90821437d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("peerfuse")]
 [assembly: System.Reflection.AssemblyTitleAttribute("peerfuse")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
