@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "N7vzjaaoXxRRaBXeFd3v4b4gR4XtqtJX1QnK+SJekLUyqJTyRcZirMdfAGMhFs07S2ndT92sL2ETIagIdplMZA==",
+  "success": true,
+  "projectFilePath": "/home/mauricio/Documents/GitHub/peerfuse.github.io/peerfuse/peerfuse/peerfuse.csproj",
+  "expectedPackageFiles": [
+    "/home/mauricio/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.0/microsoft.aspnetcore.app.ref.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
